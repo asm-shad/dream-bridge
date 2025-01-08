@@ -1,0 +1,6 @@
+[submodule "dream-bridge-client"]
+	path = dream-bridge-client
+	url = https://github.com/programming-hero-web-course2/b10-a10-client-side-asm-shad.git
+[submodule "dream-bridge-server"]
+	path = dream-bridge-server
+	url = https://github.com/programming-hero-web-course2/b10-a10-server-side-asm-shad.git
